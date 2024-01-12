@@ -217,9 +217,9 @@ const Detalle = () => {
                   <CardText className="fs-4 text-center">
                     <b>Cadena de Evolución</b>
                   </CardText>
-                  {listaEvoluciones.map((pok, i) => (
+                  {/* {listaEvoluciones.map((pok, i) => (
                     <PokeTarjeta poke={pok} key={i} />
-                  ))}
+                  ))} */}
                 </Col>
               </Row>
             </CardBody>
